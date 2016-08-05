@@ -1,8 +1,9 @@
 {
-  "name": "mr-image",
-  "version": "0.0.2",
+  "name": "mr-image-mistrall-fork",
+  "version": "0.0.3",
   "authors": [
-    "Maximiliano Ruani <maxi.ruani91@googlemail.com>"
+    "Maximiliano Ruani <maxi.ruani91@googlemail.com>",
+    "Anton Golenkovskiy <mipt.shootnick@gmail.com>"
   ],
   "description": "Simple image select, crop and draw Angular.js directive.",
   "main": [
